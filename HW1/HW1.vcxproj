@@ -115,9 +115,7 @@
   </ItemGroup>
   <ItemGroup>
     <ClCompile Include="Gate.cpp" />
-  </ItemGroup>
-  <ItemGroup>
-    <ResourceCompile Include="HW1.rc" />
+    <ClCompile Include="main.cpp" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">
